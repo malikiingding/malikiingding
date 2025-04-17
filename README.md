@@ -10,9 +10,6 @@ It is the development of websites used internally and externally by organization
 * ✉️  You can contact me at [malikiingding1@gmail.com](mailto:malikiingding1@gmail.com)
 * 🧠  I'm learning ReactJS, NextJS
 
-<a href="https://www.github.com/malikiingding" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/malikiingding?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
